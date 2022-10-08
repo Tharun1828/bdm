@@ -387,7 +387,7 @@ async def get_shortlink(link):
         https = "https"
         link = link.replace("http", https)
     url = f'https://api.shareus.in/shortLink'
-    params = {'api': 'jd1U5gB5SgWTAo1ULB0Wu3RrBKJ3',
+    params = {'api': '74b528e0081fdfacb29262f1e7024f1bcd9d5d31',
               'url': link,
               }
 
